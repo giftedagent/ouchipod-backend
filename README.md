@@ -67,6 +67,7 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
+これにより、localhost:3000でNestjsの開発サーバーが起動します。
 
 ## Support
 
