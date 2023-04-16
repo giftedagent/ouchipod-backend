@@ -29,7 +29,17 @@
 ## Installation
 
 ```bash
+# ouchipod-backendリポジトリをクローンするディレクトリに移動
+$ cd ***
+
+# npmのインストール
 $ npm install
+
+# nest.js/cliのインストール
+$ npm install @nestjs/cli
+
+# ouchipod-backendリポジトリをクローン
+$ git clone -b morioka git@github.com:giftedagent/ouchipod-backend.git
 ```
 
 ## Running the app
